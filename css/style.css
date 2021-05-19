@@ -1,0 +1,90 @@
+ /* over all rules */
+   *{ box-sizing:border-box; }
+   html,body{ margin:0;padding:0;background:#ddd;color:#333;font-family:'Open Sans','Trebuchet MS','Arial',sans-serif;font-size:14px; }
+   .container{ width:90%;float:left;position:relative;left:50%;margin-left:-600px;background:#fff;padding:10px; }
+   a{ text-decoration:none;color:#c33; }
+   
+   /* header and footer */
+   header,footer,article,section{ float:left;padding:10px; }
+   header,footer{ width:100%; }
+   header,footer{ background-color:#333;color:#fff;text-align:right;height:100px; }
+   header{ font-size:1.8em; }
+   header big{ line-height:100px; text-align:center; }
+   
+   footer{ background-color:#999;text-align:center;height:40px; }
+   footer a{ text-decoration:underline;color:#fff;font-weight:bold; }
+   
+   
+   /* <article> tag is our 'content area' */
+   article{ width:100%; }
+   h1{ padding:0;margin:0 0 20px 0; }
+   
+   /* section */
+   article section{ padding:0; width:100%;}
+   
+   /* basic page division */
+   .thirds{ 
+	float: left;
+	width: 15%;
+	margin:5px;
+	padding: 0 12px;
+	display:inline-table;
+	 border: 1px solid #dcded6;
+	 height:250px;
+	 position:relative;
+	}
+	#clear{
+		clear:both;
+	}
+ span{
+	 padding:3px;
+ }  
+ .img {
+  float: left;
+  width: 190px;
+}
+.button{
+	display:inline-block;
+	padding:0.35em 1.2em;
+	border:0.1em solid #FFFFFF;
+	margin:0 0.3em 0.3em 0;
+	border-radius:0.12em;
+	box-sizing: border-box;
+	text-decoration:none;
+	font-weight:300;
+	color:#FFFFFF;
+	background-color:#4eb5f1;
+	text-align:center;
+	transition: all 0.2s;
+}
+#cart-table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#cart-table td, #cart-table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#cart-table tr:nth-child(even){background-color: #f2f2f2;}
+
+#cart-table tr:hover {background-color: #f5f5f5;}
+
+#cart-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 5px 5px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+

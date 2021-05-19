@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Car>
+   <Category categoryname="Sedan">
+	<Availability>True</Availability>
+	<Brand>Toyota</Brand>
+	<Model>Camry</Model>
+	<Year>2013</Year>
+	<Mileage>10000</Mileage>
+	<Fuel>Petrol</Fuel>
+	<Seats>5</Seats>
+	<Price>240</Price>
+	<Description>It has an attractive dashboard, passing power, fuel efficiency and a comfort ride.</Description>
+ </Category>
+
+   <Category categoryname="SUV">
+	<Availability>True</Availability>
+	<Brand>Nissan</Brand>
+	<Model>X-Trail</Model>
+	<Year>2015</Year>
+	<Mileage>36782</Mileage>
+	<Fuel>Petrol</Fuel>
+	<Seats>7</Seats>
+	<Price>360</Price>
+	<Description>The Nissan X-Trail is a compact crossover SUV produced by the Japanese automaker Nissan</Description>
+ </Category>
+ <Category categoryname="Wagon">
+	<Availability>True</Availability>
+	<Brand>Volskwagen</Brand>
+	<Model>Volskwagen Golf</Model>
+	<Year>2017</Year>
+	<Mileage>13586</Mileage>
+	<Fuel>CNG</Fuel>
+	<Seats>5</Seats>
+	<Price>180</Price>
+	<Description>The 2017 Volkswagen Golf is one of the best. It comes with classy cabin and a sophisticated ride quality.</Description>
+ </Category>
+ <Category categoryname="Sedan">
+	<Availability>True</Availability>
+	<Brand>Honda</Brand>
+	<Model>Honda Civic</Model>
+	<Year>2018</Year>
+	<Mileage>9586</Mileage>
+	<Fuel>Petrol</Fuel>
+	<Seats>5</Seats>
+	<Price>220</Price>
+	<Description>Honda Civic is a Sedan Manufactured by Honda. </Description>
+ </Category>
+ 
+ <Category categoryname="SUV">
+	<Availability>False</Availability>
+	<Brand>Jeep</Brand>
+	<Model>Jeep Cherokee</Model>
+	<Year>2018</Year>
+	<Mileage>8000</Mileage>
+	<Fuel>Petrol</Fuel>
+	<Seats>5</Seats>
+	<Price>300</Price>
+	<Description>The standard engine option on the 2018 Cherokee is a V6, 2.4-liter inline-4-cylinder engine with 184-horsepower.</Description>
+ </Category>
+ <Category categoryname="SUV">
+	<Availability>False</Availability>
+	<Brand>Chevrolet</Brand>
+	<Model>Chevrolet  Captiva</Model>
+	<Year>2016</Year>
+	<Mileage>37000</Mileage>
+	<Fuel>Petrol</Fuel>
+	<Seats>5</Seats>
+	<Price>280</Price>
+	<Description>The Chevrolet Captiva is a compact crossover SUV that was developed by the South Korean manufacturer Daewoo.</Description>
+ </Category>
+ <Category categoryname="Sedan">
+	<Availability>True</Availability>
+	<Brand>BMW</Brand>
+	<Model>BMW 320i</Model>
+	<Year>2018</Year>
+	<Mileage>6580</Mileage>
+	<Fuel>Petrol</Fuel>
+	<Seats>5</Seats>
+	<Price>320</Price>
+	<Description>The new 3-series by BMW is smart, bold and sporty</Description>
+ </Category>
+ <Category categoryname="Sedan">
+	<Availability>True</Availability>
+	<Brand>Hyundai</Brand>
+	<Model>Hyundai Sonata</Model>
+	<Year>2017</Year>
+	<Mileage>18500</Mileage>
+	<Fuel>Petrol</Fuel>
+	<Seats>5</Seats>
+	<Price>120</Price>
+	<Description>The 2017 Sonata is an excellent midsize sedan. This well-rounded vehicle offers solid fuel economy, a spacious trunk, and a smooth and refined ride quality.</Description>
+ </Category>
+ <Category categoryname="SUV">
+	<Availability>True</Availability>
+	<Brand>Suzuki</Brand>
+	<Model>Suzuki Jimmy</Model>
+	<Year>2017</Year>
+	<Mileage>15200</Mileage>
+	<Fuel>Petrol</Fuel>
+	<Seats>5</Seats>
+	<Price>310</Price>
+	<Description>This is a proper off-road car in miniature</Description>
+ </Category>
+ <Category categoryname="SUV">
+	<Availability>False</Availability>
+	<Brand>Mercedes-Benz</Brand>
+	<Model>Mercedes-Benz GLC</Model>
+	<Year>2017</Year>
+	<Mileage>8200</Mileage>
+	<Fuel>Petrol</Fuel>
+	<Seats>5</Seats>
+	<Price>400</Price>
+	<Description>The Mercedes-Benz GLC-Class (X253/C253) is a compact luxury SUV</Description>
+ </Category>
+</Car>
