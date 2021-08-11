@@ -21,5 +21,5 @@ Steps to run this project as below
 
 Please follow above steps and run project on localhost. If you like my project please give me a star. 
 
-Thank you for visiting my GitHub project!!!
+Thank you for checking my GitHub project!!!
 
