@@ -6,9 +6,8 @@ This project was built using below technologies.
 2. MySQL
 3. XML
 4. AJAX
-5. HTML
-6. CSS
-7. VsCode
+5. CSS
+6. VsCode
 
 # **How to get started?**
 1. Download and Install Visual Studio Code.
