@@ -37,5 +37,5 @@ Install git on your machine and clone this repository.
 
 Please follow above steps and run project on localhost. If you like my project please give me a star. 
 
-# Thank you for checking my project!!!
+**Thank you for checking my project!!!**
 
