@@ -31,9 +31,9 @@ This project was built using below technologies.
 6. Now you can see the car rental website.
 
 
+Please follow above steps and run project on localhost. 
 
-Please follow above steps and run project on localhost. If you like my project please give me a star. 
-
+**If you like my project please give me a star.**
 
 **Thank you for checking my project!!!**
 
