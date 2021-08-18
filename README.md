@@ -35,9 +35,9 @@ This project was built using below technologies.
 6. Now you can see the car rental website.
 
 
+**Thank you for checking my project!!!**
+
 ### Show your support
 
-**Give a ⭐ if you like this website!**
-
-**Thank you for checking my project!!!**
+**Give a ⭐ if you like this website!!!**
 
