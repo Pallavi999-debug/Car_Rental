@@ -1,6 +1,6 @@
 <h2 align="center">
   Car Rental Website <br/>
-  <a href="https://geminipizza.vercel.app/" target="">Hertz-UTS</a>
+  <a href="https://car-re.herokuapp.com/" target="">Hertz-UTS</a>
 </h2>
 
 <div align="center">
@@ -19,6 +19,7 @@ This project was built using below technologies.
 4. AJAX
 5. CSS
 6. VsCode
+7. Heroku
 
 # How to get started?
 1. Download and Install Visual Studio Code.
