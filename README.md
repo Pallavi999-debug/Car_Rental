@@ -1,7 +1,13 @@
-# Car Rental
+<h2 align="center">
+  Car Rental Website <br/>
+  <a href="https://geminipizza.vercel.app/" target="">Hertz-UTS</a>
+</h2>
 
-![Car Rental](https://user-images.githubusercontent.com/79240706/129894407-56227993-fd23-4445-aa29-601ab5def838.PNG)
-
+<div align="center">
+  
+ <img alt="Demo" src="./images/Car_Rental.PNG" />
+ 
+</div>
 # Built With
 
 This project was built using below technologies.
